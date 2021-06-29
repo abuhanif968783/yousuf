@@ -1,0 +1,35 @@
+body{
+	background: linear-gradient(to right, #96ff0063, #ffc0cb1a), url(img/bodybg.jpg); 
+	background-size: cover;
+	width: auto;
+	height: 99.4vh;
+	background-position: center center;
+
+	
+}
+.comilla{
+	font-size: 40px;
+	font-family: arial-black;
+	color: orange;
+}
+
+/*02 class*/
+broder 
+border width
+border style
+border color
+border left right top botton
+background
+background: linear-gradient;/radial-gradient
+
+/*03*/
+div
+background image
+background repeat
+background-size contain/cover
+body background
+body background repeat
+body background size 100%/cover/contain
+/*04*/
+transparent background 
+class+tag
